@@ -1,6 +1,6 @@
 package com.aluel.assessment4.Models
 
-data class List(
+data class Posts(
 var userId:Int,
     var id:Int,
     var title:String,
